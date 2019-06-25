@@ -14,3 +14,6 @@ Support me on [Patreon](https://patreon.com/irinazolotareva) and follow me on [T
 <a href="7.png"><img src="7.png" class="w3"></a>
 <a href="8.png"><img src="8.png" class="w3"></a>
 <a href="9.png"><img src="9.png" class="w3"></a>
+<a href="10.png"><img src="10.png" class="w3"></a>
+<a href="11.png"><img src="11.png" class="w3"></a>
+<a href="12.png"><img src="12.png" class="w3"></a>
