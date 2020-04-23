@@ -13,7 +13,9 @@ I can make a capsule wardrobe for you!
 Available for commission and collaboration.
 
 Contact Directly
+
 aveczolotareva@gmail.com
+
 Instagram: [@aveczolotareva](https://www.instagram.com/aveczolotareva/)
 
 
