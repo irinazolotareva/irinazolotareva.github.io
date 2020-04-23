@@ -10,13 +10,11 @@ My name is Irina. I'm working at the point where fashion meets life drawing. Her
 
 I can make a capsule wardrobe for you!
 
-Available for commission and collaboration.
+<b>Available for commission and collaboration.</b>
 
-Contact Directly
-
-aveczolotareva@gmail.com
-
-Instagram: [@aveczolotareva](https://www.instagram.com/aveczolotareva/)
+<h3>Contact Directly</h3>
+<p>aveczolotareva@gmail.com</p>
+<p>Instagram: [@aveczolotareva](https://www.instagram.com/aveczolotareva/)</p>
 
 
 I appreciate so much any support of my art you’re willing to give.
