@@ -2,8 +2,9 @@
 permalink: /
 title: Irina's homepage
 ---
+<center>
 <a href="loveu.GIF"><img src="loveu.GIF" class="w6"></a>
-
+</center>
 <h1>Greetings!</h1>
 
 My name is Irina. I'm working at the point where fashion meets life drawing. Here you can follow my progress and support me. If you like my work, and you want to help me, you can support me on [Patreon](https://patreon.com/irinazolotareva). :)<br>I can make a capsule wardrobe for you!
