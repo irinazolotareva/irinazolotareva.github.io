@@ -7,7 +7,7 @@ title: Irina's homepage
 </center>
 <h1>Greetings!</h1>
 
-My name is Irina. I'm working at the point where fashion meets life drawing. Here you can follow my progress and support me. If you like my work, and you want to help me, you can support me on [Patreon](https://patreon.com/irinazolotareva). :)<br>I can make a capsule wardrobe for you!
+My name is Irina. I'm working at the point where fashion meets life drawing. Here you can follow my progress. If you like my work, and you want to help me, you can support me on [Patreon](https://patreon.com/irinazolotareva). :)<br>I can make a capsule wardrobe for you!
 <b>Available for commission and collaboration.</b>
 
 <b>Contact Directly:</b><br>aveczolotareva@gmail.com<br>Instagram: [@aveczolotareva](https://www.instagram.com/aveczolotareva/)
