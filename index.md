@@ -5,6 +5,9 @@ title: Irina's homepage
 
 Greetings!
 
+<a href="1.html"><img src="1.png" class="w1"></a>
+
+
 My name is Irina. I'm working at the point where fashion meets life drawing. Here you can follow my progress and support me. If you like my work, and you want to help me, you can support me on [Patreon](https://patreon.com/irinazolotareva). :)
 
 I can make a capsule wardrobe for you!
