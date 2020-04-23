@@ -2,7 +2,7 @@
 permalink: /
 title: Irina's homepage
 ---
-<a href="IMG_1447.gif"><img src="IMG_1447.gif" class="w6"></a>
+<a href="loveu.GIF"><img src="loveu.GIF" class="w6"></a>
 
 <h1>Greetings!</h1>
 
