@@ -10,7 +10,7 @@ My name is Irina. I'm working at the point where fashion meets life drawing. Her
 
 <b>Available for commission and collaboration.</b>
 
-<b>Contact Directly:</b>aveczolotareva@gmail.com<br>Instagram: [@aveczolotareva](https://www.instagram.com/aveczolotareva/)
+<b>Contact Directly:</b><br>aveczolotareva@gmail.com<br>Instagram: [@aveczolotareva](https://www.instagram.com/aveczolotareva/)
 
 
 <p>I appreciate so much any support of my art you’re willing to give.</p>
