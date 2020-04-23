@@ -4,7 +4,7 @@ title: Irina's homepage
 ---
 <a href="IMG_1447.gif"><img src="IMG_1447.gif" class="w6"></a>
 
-Greetings!
+<h1>Greetings!</h1>
 
 My name is Irina. I'm working at the point where fashion meets life drawing. Here you can follow my progress and support me. If you like my work, and you want to help me, you can support me on [Patreon](https://patreon.com/irinazolotareva). :)
 
