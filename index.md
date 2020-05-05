@@ -3,7 +3,7 @@ permalink: /
 title: Irina's homepage
 ---
 
-<img src="l.gif" class="w6 mw100 tc">
+<p class="tc"><img src="l.gif" class="mw6 w100"></p>
 <h1>Greetings!</h1>
 
 My name is Irina. I'm working at the point where fashion meets life drawing. Here you can follow my progress. If you like my work, and you want to help me, you can support me on [Patreon](https://patreon.com/irinazolotareva). I can make a capsule wardrobe for you! :)<br><b>Available for commission and collaboration.</b>
