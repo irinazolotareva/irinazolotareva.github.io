@@ -11,7 +11,7 @@ My name is Irina. I'm working at the point where fashion meets life drawing. Her
 
 <b>Contact directly:</b><br>
 aveczolotareva@gmail.com<br>
-<p>[Twitter](https://twitter.com/aveczolotareva)</p>
+[Twitter](https://twitter.com/aveczolotareva)
 <p>[Instagram](https://www.instagram.com/aveczolotareva/)</p>
 
 
