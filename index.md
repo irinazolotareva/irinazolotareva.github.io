@@ -10,6 +10,7 @@ My name is Irina. I'm working at the point where fashion meets life drawing. Her
 <b>Available for commission and collaboration.</b>
 
 <img src="me" class="mw6 w100">
+<p><strong>Irina Zolotareva</strong><br>
 aveczolotareva@gmail.com<br>
 [Twitter](https://twitter.com/aveczolotareva) <br>[Instagram](https://www.instagram.com/aveczolotareva/)
 
