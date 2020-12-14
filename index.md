@@ -11,7 +11,10 @@ My name is Irina. I'm working at the point where fashion meets life drawing. Her
 
 <img src="me.png" class="mw100 w100">
 <p><strong>Irina Zolotareva</strong><br>
-  aveczolotareva@gmail.com<br> [Twitter](https://twitter.com/aveczolotareva)<br>[Instagram](https://www.instagram.com/aveczolotareva/)<br>
+  aveczolotareva@gmail.com<br>
+  <a href="https://twitter.com/aveczolotareva">Twitter</a><br>
+  <a href="https://www.instagram.com/aveczolotareva/">Instagram</a><br></p>
+
 
 <p>I appreciate so much any support of my art you’re willing to give.</p>
 
